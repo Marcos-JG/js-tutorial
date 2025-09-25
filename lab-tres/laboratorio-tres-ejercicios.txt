@@ -1,0 +1,16 @@
+Algorix
+
+Byron Pineda: Ejercicios
+Condicionales: 9,10
+Bucles: 19,20
+Combinados: 29,30
+
+Emiliano Herrera: Ejercicios
+Condicionales: 
+Bucles:
+Combinados:
+
+Marcos García:  Ejercicios
+Condicionales: 1,2
+Bucles: 11,12
+Combinados: 21,22
