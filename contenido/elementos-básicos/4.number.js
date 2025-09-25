@@ -31,3 +31,24 @@ const resultado = 0.1 + 0.2 //0.30000000000000004
 console.log(resultado)
 console.log(resultado.toFixed(1))
 console.log(resultado.toFixed(1)==0.3) //false
+
+//OPERACIONES AVANZADAS
+
+const raizCuadrada = Math.sqrt(16) //4
+const valorAbsoluto = Math.abs(-5) //5
+const aletorio = Math.trunc(Math.random()*20+10) //numero aleatorio
+console.log(raizCuadrada)
+console.log(valorAbsoluto)
+console.log(aletorio)
+
+//Lenguajes de programacion:
+                        //RUNTIME EXCEPTION
+//Compilados: java (JVM -> .java -> .class -> .jar). C. C++
+
+//Interpretados: javascript(lee -> ejecuta)
+
+const numerica = 2
+const boolean = true
+//conversion implicita
+console.log (numerica + boolean)
+
