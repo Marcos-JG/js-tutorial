@@ -6,9 +6,9 @@ Bucles: 19,20
 Combinados: 29,30
 
 Emiliano Herrera: Ejercicios
-Condicionales: 
-Bucles:
-Combinados:
+Condicionales: 3,4
+Bucles: 13,14
+Combinados: 23,24
 
 Marcos García:  Ejercicios
 Condicionales: 1,2
